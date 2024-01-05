@@ -1,0 +1,9 @@
+Descrição de uma funcionalidade, focando em quem, o que e porque a funcionalidade deve ser desenvolvida. Ajuda no entendimento da tarefa e a criar uma empatia pelo usuário, e o motivo pelo qual que precisa dessa demanda.
+
+## Escrita 
+
+***EU*** - identificação da pessoa que irá realizar a ação no sistema
+***Gostaria*** - ação que será realizada pela persona
+***Porque*** - motivo da ação existir no sistema
+
+De maneira simples podemos informar ao time quem é o usuário que irá realizar aquela demanda dentro do sistema, o que deve ser realizado e o porquê.

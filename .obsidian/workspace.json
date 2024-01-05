@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "81e7eaaae69415e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb848f4a96dd2450",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "539b8029d0587ff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teste de Software/Teoria/Upstream - Criação do produto/UPSTREAM E DOWNSTREAM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8216b9f3fa4a4bd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teste de Software/Teoria/Upstream - Criação do produto/USER STORY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56c0161d5b37d1a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "af203a62152b2871",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbbf9b7065666bf0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5193017a5fbe4456",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ae9dc3a64e24e7e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb6a94846e94236f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c867661b348f623",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3eda2f2c3f69345f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Teste de Software/Teoria/Upstream - Criação do produto/USER STORY.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5e1153ff341e7da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Teste de Software/Teoria/Upstream - Criação do produto/USER STORY.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4416932148a40444",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5a9c78c7a70f1c11",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Teste de Software/Teoria/Upstream - Criação do produto/USER STORY.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "8216b9f3fa4a4bd7",
+  "lastOpenFiles": [
+    "Teste de Software/Teoria/Upstream - Criação do produto/UPSTREAM E DOWNSTREAM.md",
+    "Teste de Software/Teoria/Upstream - Criação do produto/USER STORY.md",
+    "Teste de Software/Teoria/Upstream - Criação do produto",
+    "Teste de Software/Teoria",
+    "Teste de Software"
+  ]
+}

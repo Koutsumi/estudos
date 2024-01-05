@@ -1,0 +1,24 @@
+## Upstream
+
+Primeira fase do fluxo da criação de um produto, passando por diversos profissionais, de diferentes áreas, para capturar, amadurecer e evoluir as ideias que o cliente deseja trazer para o seu produto. O objetivo é transformar as ideias trazidas em algo mais sólido como forma de documentação do projeto (os critérios de aceite, regras de negócio e protótipos)
+
+### Definition ofready
+
+Uma lista de tarefas que precisam ser realizadas para que os desenvolvedores possam iniciar seus trabalhos
+- [ ] Critérios de aceite
+- [ ] Regras de negócio
+- [ ] Protótipo
+
+## Downstream
+
+Trata-se do time de desenvolvimento e seus membros técnicos que irão pegar a docuementação criada pelo ` upstream ` e dar vida ao sistema.
+
+### Definition of done
+
+Lista de tarefas que devem ser cumpridas para que o sistema vá para o ambiente de produção
+
+- [ ] Planejamento (planejamento da sprint, visão dos devs a respeito das tarefas)
+- [ ] Desenvolvimento
+- [ ] Revisão do código
+- [ ] Testes
+- [ ] Validação de produto (PO)
