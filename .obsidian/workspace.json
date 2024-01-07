@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "539b8029d0587ff4",
+            "id": "590e6963fe304fa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teste de Software/Teoria/Upstream - Criação do produto/UPSTREAM E DOWNSTREAM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8216b9f3fa4a4bd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teste de Software/Teoria/Upstream - Criação do produto/USER STORY.md",
+                "file": "Teste de Software/Teoria/Gherking/2. KEYWORDS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teste de Software/Teoria/Upstream - Criação do produto/USER STORY.md",
+                "file": "Teste de Software/Teoria/Gherking/2. KEYWORDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teste de Software/Teoria/Upstream - Criação do produto/USER STORY.md",
+                "file": "Teste de Software/Teoria/Gherking/2. KEYWORDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teste de Software/Teoria/Upstream - Criação do produto/USER STORY.md"
+                "file": "Teste de Software/Teoria/Gherking/2. KEYWORDS.md"
               }
             }
           }
@@ -159,10 +146,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8216b9f3fa4a4bd7",
+  "active": "590e6963fe304fa7",
   "lastOpenFiles": [
-    "Teste de Software/Teoria/Upstream - Criação do produto/UPSTREAM E DOWNSTREAM.md",
-    "Teste de Software/Teoria/Upstream - Criação do produto/USER STORY.md",
+    "Teste de Software/Teoria/Gherking/1. O QUE É GHERKING.md",
+    "Teste de Software/Teoria/Gherking/2. KEYWORDS.md",
+    "Teste de Software/Teoria/Upstream - Criação do produto/4. CRITÉRIOS DE ACEITE.md",
+    "Teste de Software/Teoria/Upstream - Criação do produto/3. REGRAS DE NEGÓCIO.md",
+    "Teste de Software/Teoria/Upstream - Criação do produto/2. USER STORY.md",
+    "Teste de Software/Teoria/Upstream - Criação do produto/1. UPSTREAM E DOWNSTREAM.md",
+    "Teste de Software/Teoria/Gherking",
     "Teste de Software/Teoria/Upstream - Criação do produto",
     "Teste de Software/Teoria",
     "Teste de Software"
