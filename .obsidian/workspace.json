@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teste de Software/Teoria/Gherking/2. KEYWORDS.md",
+                "file": "Teste de Software/Teoria/Upstream - Criação do produto/4. CRITÉRIOS DE ACEITE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "054832822fd0bcba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product Owner/BACKLOG.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teste de Software/Teoria/Gherking/2. KEYWORDS.md",
+                "file": "Product Owner/BACKLOG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teste de Software/Teoria/Gherking/2. KEYWORDS.md",
+                "file": "Product Owner/BACKLOG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teste de Software/Teoria/Gherking/2. KEYWORDS.md"
+                "file": "Product Owner/BACKLOG.md"
               }
             }
           }
@@ -138,22 +151,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "590e6963fe304fa7",
+  "active": "054832822fd0bcba",
   "lastOpenFiles": [
-    "Teste de Software/Teoria/Gherking/1. O QUE É GHERKING.md",
-    "Teste de Software/Teoria/Gherking/2. KEYWORDS.md",
     "Teste de Software/Teoria/Upstream - Criação do produto/4. CRITÉRIOS DE ACEITE.md",
+    "Product Owner/BACKLOG.md",
+    "Product Owner",
     "Teste de Software/Teoria/Upstream - Criação do produto/3. REGRAS DE NEGÓCIO.md",
     "Teste de Software/Teoria/Upstream - Criação do produto/2. USER STORY.md",
     "Teste de Software/Teoria/Upstream - Criação do produto/1. UPSTREAM E DOWNSTREAM.md",
+    "Teste de Software/Teoria/Gherking/2. KEYWORDS.md",
+    "Teste de Software/Teoria/Gherking/1. O QUE É GHERKIN.md",
+    "Untitled 1.md",
     "Teste de Software/Teoria/Gherking",
     "Teste de Software/Teoria/Upstream - Criação do produto",
     "Teste de Software/Teoria",
