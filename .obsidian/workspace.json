@@ -8,48 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "590e6963fe304fa7",
+            "id": "8310f6ce607e2e7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teste de Software/Teoria/Upstream - Criação do produto/4. CRITÉRIOS DE ACEITE.md",
+                "file": "C#/Teoria/API - Application Programming Interface.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "054832822fd0bcba",
+            "id": "00b5d9d508d941ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Owner/BACKLOG.md",
+                "file": "C#/Teoria/REST, SOAP e ASP.NET.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2b051ad774e58f3e",
+            "id": "634d6d20f0f4428d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Owner/PRIORIZAÇÃO DO BACKLOG.md",
+                "file": "C#/Teoria/REST, SOAP e ASP.NET.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "098f45df659c70b6",
+            "id": "eb5a30f8e7c81205",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Owner/PRIORIZAÇÃO DO BACKLOG.md",
+                "file": "Injeção de dependência.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product Owner/PRIORIZAÇÃO DO BACKLOG.md",
+                "file": "Injeção de dependência.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product Owner/PRIORIZAÇÃO DO BACKLOG.md",
+                "file": "Injeção de dependência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product Owner/PRIORIZAÇÃO DO BACKLOG.md"
+                "file": "Injeção de dependência.md"
               }
             }
           }
@@ -183,10 +183,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "098f45df659c70b6",
+  "active": "eb5a30f8e7c81205",
   "lastOpenFiles": [
-    "Product Owner/USER STORY.md",
+    "Pasted image 20240322003207.png",
+    "Pasted image 20240322003000.png",
+    "Pasted image 20240322002913.png",
+    "Pasted image 20240322002621.png",
+    "Pasted image 20240322002619.png",
+    "C#/Teoria/REST, SOAP e ASP.NET.md",
+    "Injeção de dependência.md",
+    "C#/Teoria/API - Application Programming Interface.md",
+    "HTTP.md",
+    "C#/imagens/Pasted image 20240322001932.png",
+    "C#/imagens/Pasted image 20240322000557.png",
+    "C#/imagens",
+    "C#/imagens/Pasted image 20240321235840.png",
+    "C#/Teoria",
     "Product Owner/PRIORIZAÇÃO DO BACKLOG.md",
+    "C#",
+    "Product Owner/USER STORY.md",
     "Product Owner/BACKLOG.md",
     "Teste de Software/Teoria/Upstream - Criação do produto/4. CRITÉRIOS DE ACEITE.md",
     "Product Owner",
