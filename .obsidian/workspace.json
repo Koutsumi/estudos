@@ -4,93 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bb848f4a96dd2450",
+        "id": "0dff48f114ce8df0",
         "type": "tabs",
         "children": [
           {
-            "id": "8310f6ce607e2e7b",
+            "id": "012944e716f3458b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/Teoria/1. API - Application Programming Interface.md",
+                "file": "👩‍💻 Programming/C#/Teoria/6. Entity Framework Core - Code First.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "00b5d9d508d941ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C#/Teoria/3. REST, SOAP e ASP.NET.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "634d6d20f0f4428d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C#/Teoria/3. REST, SOAP e ASP.NET.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb5a30f8e7c81205",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C#/Teoria/4. Injeção de dependência.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a3c6e8b6df6d3cf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
-          },
-          {
-            "id": "b9f2f83e90416631",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C#/Teoria/5. ESTRUTURA DO PROJETO WEB API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5ef01cc9fd23d5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C#/Teoria/6. Entity Framework Core - Code First.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "6. Entity Framework Core - Code First"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -125,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -133,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -156,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/Teoria/6. Entity Framework Core - Code First.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -173,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/Teoria/6. Entity Framework Core - Code First.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -186,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -196,8 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/Teoria/6. Entity Framework Core - Code First.md"
-              }
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -209,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -217,42 +169,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbbf9b7065666bf0",
+  "active": "012944e716f3458b",
   "lastOpenFiles": [
-    "C#/imagens/Pasted image 20240327212130.png",
-    "C#/imagens/Pasted image 20240327212013.png",
-    "C#/imagens/Pasted image 20240327211831.png",
-    "C#/imagens/Pasted image 20240327204546.png",
-    "C#/imagens/Pasted image 20240327204422.png",
-    "C#/imagens/Pasted image 20240327203337.png",
-    "C#/imagens/Pasted image 20240327202924.png",
-    "C#/Teoria/5. ESTRUTURA DO PROJETO WEB API.md",
-    "C#/Teoria/6. Entity Framework Core - Code First.md",
-    "C#/Teoria/4. Injeção de dependência.md",
-    "C#/Teoria/3. REST, SOAP e ASP.NET.md",
-    "C#/Teoria/2. HTTP.md",
-    "C#/Teoria/1. API - Application Programming Interface.md",
-    "C#/imagens/Pasted image 20240326194632.png",
-    "C#/imagens/Pasted image 20240325213535.png",
-    "C#/imagens/Pasted image 20240322003207.png",
-    "C#/imagens/Pasted image 20240322003000.png",
-    "C#/imagens",
-    "C#/Teoria",
-    "Product Owner/PRIORIZAÇÃO DO BACKLOG.md",
-    "C#",
+    "👩‍💻 Programming/C#/Teoria/5. ESTRUTURA DO PROJETO WEB API.md",
+    "👩‍💻 Programming/C#/Teoria/4. Injeção de dependência.md",
+    "👩‍💻 Programming/C#/Teoria/3. REST, SOAP e ASP.NET.md",
+    "👩‍💻 Programming/C#/Teoria/2. HTTP.md",
+    "👩‍💻 Programming/C#/Teoria/1. API - Application Programming Interface.md",
+    "🧪 Testing/Teste de Software/Teoria/Gherking/1. O QUE É GHERKIN.md",
+    "🧪 Testing/Teste de Software/Teoria/Gherking/2. KEYWORDS.md",
+    "🧪 Testing/Teste de Software/Teoria/Upstream - Criação do produto/1. UPSTREAM E DOWNSTREAM.md",
+    "🧪 Testing/Teste de Software/Teoria/Upstream - Criação do produto/3. REGRAS DE NEGÓCIO.md",
+    "🧪 Testing/Teste de Software/Teoria/Upstream - Criação do produto/4. CRITÉRIOS DE ACEITE.md",
+    "🧪 Testing/Product Owner/PRIORIZAÇÃO DO BACKLOG.md",
+    "⚙️ Configs",
+    "🧪 Testing/Product Owner/BACKLOG.md",
+    "🧪 Testing",
+    "👩‍💻 Programming",
+    "Untitled.md",
+    "🧪 Testing/Teste de Software/Teoria/Upstream - Criação do produto/2. USER STORY.md",
+    "👩‍💻 Programming/C#/Teoria/6. Entity Framework Core - Code First.md",
+    "👩‍💻 Programming/C#/imagens/Pasted image 20240327212130.png",
+    "👩‍💻 Programming/C#/imagens/Pasted image 20240327212013.png",
+    "👩‍💻 Programming/C#/imagens/Pasted image 20240327211831.png",
+    "👩‍💻 Programming/C#/imagens/Pasted image 20240327204546.png",
+    "👩‍💻 Programming/C#/imagens/Pasted image 20240327204422.png",
+    "👩‍💻 Programming/C#/imagens/Pasted image 20240327203337.png",
+    "👩‍💻 Programming/C#/imagens/Pasted image 20240327202924.png",
+    "👩‍💻 Programming/C#/imagens/Pasted image 20240326194632.png",
+    "👩‍💻 Programming/C#/imagens/Pasted image 20240325213535.png",
+    "👩‍💻 Programming/C#/imagens/Pasted image 20240322003207.png",
+    "👩‍💻 Programming/C#/imagens",
+    "👩‍💻 Programming/C#/Teoria",
+    "👩‍💻 Programming/C#",
     "Product Owner/USER STORY.md",
-    "Product Owner/BACKLOG.md",
-    "Teste de Software/Teoria/Upstream - Criação do produto/4. CRITÉRIOS DE ACEITE.md",
-    "Product Owner",
-    "Teste de Software/Teoria/Upstream - Criação do produto/3. REGRAS DE NEGÓCIO.md",
-    "Teste de Software/Teoria/Upstream - Criação do produto/2. USER STORY.md",
-    "Teste de Software/Teoria/Upstream - Criação do produto/1. UPSTREAM E DOWNSTREAM.md",
-    "Teste de Software/Teoria/Gherking/2. KEYWORDS.md",
-    "Teste de Software/Teoria/Gherking/1. O QUE É GHERKIN.md",
+    "🧪 Testing/Product Owner",
     "Untitled 1.md",
-    "Teste de Software/Teoria/Gherking",
-    "Teste de Software/Teoria/Upstream - Criação do produto",
-    "Teste de Software/Teoria",
-    "Teste de Software"
+    "🧪 Testing/Teste de Software/Teoria/Gherking",
+    "🧪 Testing/Teste de Software/Teoria/Upstream - Criação do produto",
+    "🧪 Testing/Teste de Software/Teoria"
   ]
 }
